@@ -1,3 +1,3 @@
-module github.com/mquote
+module github.com/zhouyufugithub/module-quote
 
 go 1.18
